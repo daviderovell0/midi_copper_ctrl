@@ -69,6 +69,7 @@ void writeDigit(int number) {
   }
 }
 
+
 // MAIN
 void setup() {
   // 7 segment init
